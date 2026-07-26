@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ReadXP",
+    "slug": "readxp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0A0A0C",
+    "scheme": "readxp",
+    "splash": {
+      "backgroundColor": "#0A0A0C",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.readxp.app"
+    },
+    "android": {
+      "package": "com.readxp.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FF5A3D"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
